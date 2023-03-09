@@ -1,0 +1,1136 @@
+v3.0
+	- Added PO3 Ressources OVERRIDE
+	- Added JourneyMap Map+Mobs
+	- Added Fanver Invictus NO Override
+	- Added Nelliks GUIs 2.7.0 x128 OVERRIDE
+v3.1
+	- Added from Sphax x128 PO3
+		- ae2wtlib
+		- agricraft
+		- akashictome
+		- aroma1997dimension
+		- astralsorcery
+		- base
+		- betterbuilderswand
+		- betterquesting
+		- bhc
+		- bibliocraft
+		- bigreactors
+		- blockcraftery
+		- bloodmagic
+		- bloodmagicguide
+		- bonsaitrees
+		- bookshelf
+		- botania
+		- bq_standard
+		- bqt
+		- brandonscore
+		- ceramics
+		- chancecubes
+		- chickenchunks
+		- compacter
+		- cucumber
+		- danknull (without GUIs)
+		- darkutils
+		- draconicevolution
+		- endercore
+		- enderio
+		- endermanevo
+		- erebus
+		- exchangers
+		- exnihilicreatio
+		- extendedcrafting
+		- extracells
+		- extraplanets
+		- extrautils2
+		- farmingforblockheads
+		- ftbl
+		- ftblib
+		- galacticraftcore
+		- guideapi
+		- harvestcraft
+		- immersivepetroleum
+		- karatgarden
+		- lootbags
+		- magneticraft
+		- mantle
+		- matc
+		- mekanismgenerators
+		- mekanismtools
+		- microblovkcbe
+		- modulardiversity
+		- modularmachinery
+		- mrtjpcore
+		- mysticalagridditions
+		- mysticalagriculture
+		- netherendingores
+		- nuclearcraft
+		- openblocks
+		- opencomputers
+		- openmods
+		- openmodularturrets
+		- oreberries
+		- pneumaticcraft
+		- projecte
+		- projectex
+		- projectred
+		- quantumflux
+		- quantumstorage
+		- questbook
+		- randomthings
+		- redstonearsenal
+		- rftools
+		- rftoolscontrol
+		- rftoolsdim
+		- rftoolspower
+		- simplesponge
+		- simplyjetpacks
+		- solarflux
+		- sonarcore
+		- storagedrawers (NO Override)
+		- storagedrawersextras
+		- tcomnplement
+		- teslacore
+		- thermalinnovation
+		- tinker_io
+		- tinkersjei
+		- tombstone
+		- tombstone
+		- torchmaster
+		- tp
+		- waystones
+		- witherskelefix
+		- xnet
+		- xreliquiary
+		- yabba
+
+v3.1.1
+	- fixed various missing texture
+	- Nelkiks GUIs OVERRIDE
+
+v3.1.2
+	- Added remaining Ressources from Sphax x64 PO3 after removing unwanted else:
+		- actuallyadditions
+		- ae2stuff
+		- appliedenergistics2	OVERRIDE
+		- aroma1997core
+		- avaritia
+		- cofh
+		- cookingforblockheads
+		- craftingtweaks	OVERRIDE
+		- embers
+		- enderstorage
+		- forge
+		- immersiveengineering
+		- industrialforegoing
+		- ironchest
+		- mekanism
+		- natura
+		- nex
+		- plustic
+		- quark
+		- tconstruct
+		- thermaldynamics
+		- thermalexpansion
+		- thermalfoundation
+		- translocators
+		- twilightforrest
+		- wtc
+	NO Overrides (Except tconstruct fluids)
+	- Neliks GUIs OVERRIDE
+
+v3.2
+	- Mekanism Sphax x64 PO3 Update
+		- /armor
+		- /gui
+		- /particles
+		- /render
+		- blocks
+		- entities
+		- fluid tanks removed
+		- items (NO Override)
+
+	- Invictus Update (Not Included Any Yet First) NO Override
+		- additional-buildcraftobjects
+		- additionalpipes
+		- advancedgenetics
+		- advancedmachines
+		- advancedsolarpanels
+		- alchemicalwizardry
+		- atls
+		- alzlib
+		- aobd
+		- applecore
+		- archimedes
+		- arsmagica2
+		- autopackager
+		- backpack
+		- bagginses
+		- betterchests
+		- betterstorage
+		- books
+		- buildcraft
+		- buildcraftbuilders
+		- buildcraftcore
+		- buildcraftenergy
+		- buildcraftfactory
+		- buildcraftrobotics
+		- buildcraftsilicon
+		- buildcrafttransport
+		- buildcraftblocks
+		- buildcraftportalsmod
+		- compactmachines
+		- compactsolars
+		- compactstorage
+		- computercraft
+		- crystalwing
+		- darktools
+		- dimanchor
+		- divinerpg
+		- ee3
+		- eggygoodness
+		- elementalcreepers
+		- elementalmelons
+		- eln
+		- emashercore
+		- enhancedportals
+		- enviromine
+		- eplus
+		- exastis
+		- exastisrebirth
+		- exnihilo
+		- extrabees
+		- extrabiomesxl
+		- extratic
+		- extratrees
+		- factorization
+		- forbidden
+		- forestday
+		- fossil
+		- galacticraftasteroids
+		- galacticraftmars
+		- galacticraftmoon
+		- ganysend
+		- ganysnether
+		- ganyssurface
+		- gcewing_lightning
+		- geostrata
+		- gravestone
+		- gregtech
+		- hardcoreenderexpansion
+		- hqm
+		- ic2
+		- igneosadditions
+		- igneousadditions
+		- iguanatweaksconstruct
+		- immersiveintegration
+		- immibis_microblocks
+		- inviniteinvo
+		- jabba
+		- lbd
+		- logisticpipes
+		- lucky
+		- magicalcrops
+		- magicbees
+		- mariculture
+		- metallurgy
+		- meteors
+		- minefactoryreloaded
+		- mocreatures
+		- modularsystems
+		- morefurnaces
+		- morepistons
+		- morph
+		- multipagechest
+		- mystcraft
+		- necromancy
+		- neiaddons
+		- neiintegration
+		- neiplugins
+		- netherores
+		- petbat
+		- portalgun
+		- practicalities
+		- railcraft
+		- randomthings
+		- reactorcraft
+		- rotarycraft
+		- rouletteores
+		- simpleores
+		- solarcraft
+		- statues
+		- steamcraft
+		- storagedrawersbop
+		- storagedrawersforestry
+		- storagedrawersmisc
+		- storagedrawersnatura
+		- taintedmagic
+		- thaumcraft
+		- thaumicenergistics
+		- thaumicmachina
+		- tmechworks
+		- trashslot
+		- trophyslots
+		- tsteelworks
+		- ttinkerer
+		- twistedtweaks
+		- undergroundbiomes
+		- witchery
+		- wrcbe_core
+		- wrcbe_logic
+		- wuppy29_peacefulpack
+		- yogpstop_qp
+v3.2.1
+	- JSTR Update (Not Included Any Yet First) NO Override
+		- artisanworktables
+		- babyanimals
+		- binniecore
+		- botany
+		- buildcraftlib
+		- chesttransporter
+		- chococraft2
+		- davincisvessels
+		- dsurround
+		- earthworks
+		- elevatorid
+		- enderzoo
+		- eplus
+		- extendedenderer
+		- flatcoloredblocks
+		- funkylocomotive
+		- geolosys
+		- growthcraft
+		- growthcraft_apples
+		- growthcraft_bamboo
+		- growthcraft_bees
+		- growthcraft_cellar
+		- growthcraft_fishtrap
+		- growthcraft_grapes
+		- growthcraft_hops
+		- growthcraft_rice
+		- guideadnvaced
+		- hats
+		- hopperducts
+		- immersivtech
+		- jaopca
+		- malisisdoors
+		- metalchest
+		- primitivemobs
+		- redstonepaste
+		- rustic
+		- soartex_base
+		- souls
+		- soulshardstow
+		- spiceoflife
+		- toughnails
+		- trashcansreborn
+		- voxelmap
+		- zombieawareness
+	- Neliks GUIs OVERRIDE
+v3.2.2
+	- missing texture fixes
+		- ladders
+	- GUI fixes for actuallyadditions and CraftingTweaks
+	- Glowstone replacemant with OG Flows HD
+v3.2.3
+	- missing texture fixes
+		- nether bricks
+		- cracked stone bricks
+		- flowers
+			- Daisy
+			- Tulips
+			- Allium
+			- Blue Orchid
+	- ME Storage Component High Tier fix
+	- FIXED extracells Blocks
+v3.3.0
+	= Ingot Update =	(Cleaning: Multiple to Single Texture)
+	
+	- Copper
+		- railcraft, metallurgy, forestday, thermalfoundation, forestry, nuclearcraft
+	- Forestday
+		- Bronze, Tin
+	- NuclearCraft
+		- Aluminum, Beryllium, Bronze, Copper, Graphite, Ferroboron, Lead, Magnesium, Manganese, Silver, Steel, Tin, Uranium
+	- BigReactors
+		- Steel
+	- Embers Rekindled
+		- Aluminum, Bronze, Copper, Dawnstone, Electrum, Lead, Nickel
+	- EnderIO
+		- Electrical Steel, Energetic Alloy, Bronze, Lead, Electrum
+	- ExtraPlanets
+		- Lead, Magnesium, Nickel, Uran / Uranium, Zinc
+	- GalactiCraftCore
+		- Aluminum, Copper, Tin
+	- GalactiCraftPlanets
+		- Lead
+	- MagnetiCraft
+		- Aluminum, Copper, Cobalt, Lead, Mithril, Nickel, Silver, Steel, Tin, Osmium, Zinc
+	- Mekanism
+		- Bronze, Tin
+	- Metallurgy
+		- Electrum
+	- MysticalAgriCraft
+		- Soularium
+	- ProjectE
+		- Copper, Electrotine, Electrotine Iron, Silver, Tin, Red Ingot, Red Iron Comp
+	- ThermalFoundation
+		- Aluminum, Bronze, Constantan, Electrum, Enderium, Iriduium, Invar, Lead, Mithril, Nickel, Platinum, Signalum, Silver, Steel, Tin
+	ImmersiveEngineering
+		- Constantan, Nickel
+	ExtendedCrafting
+		- Enderium
+	NuclearCraft
+		- Beryllium, Graphite, Lead, Tin, Silver, Manganese, Magnesium
+
+	Added In Enderio:
+	- Ingots (blueSteel, darkSteel, electricalSteel
+	- Tools (darkSteel)
+	- activatedCapacitor
+	- basicCapacitor
+	- enderCapacitor
+	- basicGear
+	- binderComposite
+	- Buckets (Cloud, Cloud Seed, Fire Water, Hootch, Liquid Sunshine, Nutrient, Rocket Fuel, XPJuice)
+	- conduitBinder
+	- conduitFacade
+	- conduit DacadeOverlay
+	- darkGrindingBall
+	- existingItemFilter
+	- filterUpgradeAdvanced
+	- filterUpgradeBasic
+	- filterUpgradePower
+	- itemBrokenSpawner
+	- machineChassi
+	- mJReader
+	- modItemFilter
+	- phasedIronNugget
+	- powder... (Bronze, Coal, Copper, Ender, Gold, Iron, Lead, Tin, Crystal)
+	- silicon
+	- soulVessel
+	- soulVesselFilled
+	- vibrantCrystal
+	- vibrantCrystalNugget
+
+	- Replaced with Invictus In Botania
+		- Ingots (Gaia, ManaSteel, Elementium, TerraSteel)
+		- Runes
+		- Grass Seeds
+		- DragonStone
+		- Dye
+		- lifeEssence
+		- pestleAndMoartar
+		- petal
+	- Added with Invictus In Botania
+		- dreamwoodTwig
+		- elementiumNugget
+		- fertilizer
+		- icePendant
+		- icePendantGem
+		- incenseStick0/1
+		- livingwoodTwig
+		- mana... (Coockie, DIamond, Pearl, Powder, ARMOR, NUGGET, STRING)
+		- phantomInk
+		- pixieDust
+		- prismarineShard
+		- quartz0-6
+		- redString
+		- terraSteelNugget
+		- twigWand0-3
+		- waterBowl
+	- Added with Invictus In extrautils
+		- bedrockium Ingot, Nugget
+		- builderswand
+		- creativebuilderswand
+		- curtains
+		- defoliageAxe / 1
+		- destructionpickaxe / 1 / 2
+		- divisionSigil
+		- enderlilliSeed
+		- erosionShovel / 1
+		- ethericsword / 1
+		- filter
+		- goldenbag
+		- nodeUpgrades
+		- paintbrush_base / _brush
+		- scanner
+		- shears / 1
+		- sonalGoggles
+		- temporalHoe / 1
+		- unstableIngot / 1	REPLACED
+		- unstablenugget / 1	REPLACED
+	
+	Replaced with Incivtus In ProjectE
+		- Anode, Bundled-Plate, Cathode, Conductive Plate, Energized Silicon Chip, Gold Coil
+		  Iron Coil, Plate, PlatformedPlate, Pointer, ScrewDriver, Silicon Chip, Wired Plate
+	
+	Added Invictus Backpacks & (Gem)Tools In ProjectE
+
+	Replaced with Invictus In ThermalFoundation
+		- DustWood & DustWoodCompressed Fertilizer, FertilizerRich
+	Added with Invictus In ThermalFoundation
+		- Lock
+	Ender Dust Similarizing
+	- EnderIO, ThermalFoundation, ?
+v3.3.1
+	- JSTR GUI Correction (Where Nelliks has nothing and JSTR is prettier)
+	- Fixed Missing Texture for Nether Bricks AGAIN D:
+v3.4.0
+	Freebies Mix V (DD&SS x64 Dungeons & Dragons + Space Shuttles) Update
+	- AbyssalCraft
+	- additionalenderblocks
+	- actuallyadditions Atomic Reconstructor
+	- anotherdusts
+	- autodropper
+	- babymobs
+	- barrels
+	- betterwithmods
+	- blockdrops
+	- bullseye
+	- charcoalblock
+	- compactmachines3
+	- covers
+	- craftelytra
+	- CyclicMagic	Added missing filefolders blocks, items, potions
+			 + fitting models (main & textures)
+	- Disenchanter
+
+	- Replaceed with DD&SS In Ceramics
+		- Clay Buckets
+		- porcelain_brick
+		- Blocks folder
+		- fitting blockstates folder
+
+	// geolysys ingots arent simlilarized
+	
+v3.4.1
+	- fixed missing texture quark:lit_lamp
+	- fixd missing texture: houstonia (Azure Blue Flower)
+v3.4.2
+	- similarized:
+		- bigreactors: graphite bar
+		- exnihilo: aluminum (ingot.png)
+		- embers: silver
+		- tinyprogressions: steel
+		- abyssalcraft: tin
+		- erebus: aluminium, copper, lead, tin, silver
+		- thermalfoundation: electrum, luminum
+		- immersiveengineering: uranium
+v3.4.3
+	- fixed missing texture for Jungle Log
+v3.5.0
+	- added ambientsounds in assets
+	- added font from Server/[]/Custom Additions v3.0 (Sci-Fi Version) 
+	  at assets/minecraft/mcpatcher
+	- added sounds from Server/[]/Custom Additions v3.0 (Sci-Fi Version)
+	  at assets/minecraft
+	- replaced (vanilla) sapling textures (with POM & PBR)
+	- added glazed terracotta textures from Server/[]/Custom Additions v3.0 (Sci-Fi Version)
+v3.5.1
+	- fixed Bronze Ingot Texture Euqalizing
+		- simpleorefusion
+		- soartex_base
+		- forestry
+	- fixed Bronze Ingot Texture Euqalizing
+		- forestry
+v3.5.2
+	- Swapped Armor & Tool Textures
+		-Between Red Diamond (ExtraPlanets) & Supremium (Mystical Agriculture)
+		- To Ease distinction between Intermedium and Supremium Armor & Tools
+
+v3.6.0
+	- Added PO3 Custom Ressources Direct Implementation
+		- Content Tweaker
+		- LandCore
+		- LandCraft
+		- MainMenu	(StoneBlock2 Theme)
+		- ./minecraft/sounds/records/11.ogg
+		- ModPack	(PO3 Theme)
+		- NuclearCraft
+		- QuantumFlux
+		- sky		(PO3 Theme)
+		- fml		(PO3 & FTB Symbols)
+v3.7.0
+	- Added GregTechCommunityEdition Resources from Sphax
+v3.7.1
+	- Added Sphax 64x Omnifactory NO Overrides!
+v3.7.2
+	- Added assets/alchemistry/... with ingot.png blanco to similarize Alchemistry Ingots
+	- Changed JEI Searchbar Texture to ease readability
+	- Swapped Block Textures in gregtech to fit BDCraft Style
+	- Added assets/jaopca/textures/blocks
+		- block.png
+		- crystal_cluster.png
+		- crystal_cluster.png.mcmeta
+	- Added assets/jaopca/textures/fluids
+	- Added assets/jaopca/textures/items
+		- crushed
+		- crushed_centrifuged
+		- crushed_overlay
+		- crushed_purified
+		- dust
+		- dust_impure
+		- dust_impure_overlay
+		- dust_pure
+		- dust_pure_overlay
+		- dust_small
+		- dust_tiny
+		- gear
+		- gear_overlay
+		- gem
+		- gem_chipped
+		- gem_exquisite
+		- gem_flawed
+		- gem_flawless
+		- nugget
+		- plate
+		- coin
+		- hunk (ExNihilo)
+v3.7.3
+	- Added Sphax Infitech 3 Patch ResourcePack NO OVERRIDES
+		- Removed Forestry Bee MCDAT files to avoid displaying like MissingTexture
+		- Unified Bsalt in gergtech
+v3.7.4
+	- Magneticraft Fixes:
+		- Corrected Name for Aluminum/Aluminium Ingot
+		- Unified Tungsten Ingot Texture
+		- Unified Galena Ingot Texture
+	- BigReactors Texture Unification:
+		- Blutonium
+		- Cyanite
+		- Ludicrite
+		- Yellorium
+v3.7.5
+	- Added Flower Textures From Two Thousand Leagues
+		- Allium
+		- Azure Bluet
+		- Blue Orchid
+		- Brown Mushroom
+		- Dandelion
+		- Lilac Bottom/Top
+		- Lilly Of The Valley
+		- Orange Tulip
+		- Oxeye Daisey
+		- Peony Bottom/Top
+		- Pink Tulip
+		- Poppy
+		- Red Mushroom
+		- Red Tulip
+		- Rose Bush Bottom/Top
+		- Sunflower Front/Top
+		- White Tulip
+		- White Rose
+		- Wither Rose
+	- Updated Record / Music Discs From Two Thousand Leagues
+v3.7.6
+	- Added Textures for JAOPCAAgriculture inside assets/jaopca/textures/items
+		- essence_dust / essence_gem / essence_ingot / seeds
+	- Added Textures for JAOPCAAgriculture inside assets/jaopca/textures/blocks
+		- Crop-Stages 0-4 & Crops for Dust / Gem / Ingot
+	- Added Textures for JAOPCASingularities inside assets/jaopca/textures/items
+		- Unified With ExtendedCrafting Ones
+	- Nelliks Guis v3.1.0 OVERRIDE!
+	- Added Outlines Back In From OG Custom HD sitting in Testing :D
+	- Added Coin And Stick Texture to JAOPCA
+v4.0.0a0
+	- Still Broken Textures:
+		- Advanced Rocketry:
+			- Black Hole Generator
+			- Fluid Extractor
+			- Essentia Centrifuge
+			- Landing Float
+			- SmallAirLockDoor
+			- LightSource
+			- AstroBed
+		- Galacticraft
+			- Oil/Fuel GC (Cant Be removed because Fluid ...)
+		- Gregtech
+			- Armor Table
+		- Matter Overdrive
+			- Matter (0/1/2)
+			- Quantum Fold Manipulator
+			- Rogue Android Spawner
+			- Unknown Block
+			- Weapon Module Holo Sights
+		- Twilight Doors
+		- VulpesLib
+			- GTPlug
+	- Fixed Redstone Lamp (Lit) Missing Texture
+	- Fixed AdvancedRocketry Basalt Missing Texture
+	- Fixed EnderIO Self-ResettingLever Missing Texture
+	- Fixed Overlay Issues for JAOPCA Blocks, Coins & Gears
+v4.0.0a0f
+	- JAOPCA Unification
+	- Created /assets/furnaceoverhaul/textrues/blocks and Added Sphax Textures
+	  from BetterFurnace as FurnaceOverhaul Block Textures (except Emerald) - Caz didnt added tops so tops become all _sides
+	  _side is left in even tho its not used
+	- Testwise: Unification for Forge Buckets
+v4.0.0a1
+	- Sphaxification (a)
+		- actuallyadditions
+		- additional-buildcraft-objects
+		- additionalpipes
+		- advancedmachines
+		- advancedsolarpanels
+		- ae2stuff
+		- ae2wtb
+		- aiobotania
+		- aoa3
+		- aobd / JAOPCA
+		- aobdbb
+		- appliedenergistics2
+		- aquaculture
+		- archimedes
+		- artisanworktables
+v4.0.0a2
+	- Sphaxification (b)
+		- bagginses (gui, Items (No Override) ender, void, upgrade1-upgrade5)
+		- basemetals (all except gui)
+		- baseminerals
+		- betterchests (items)
+		- betterfoliage
+		- betterfurnaces
+		- bettergrassandleaves
+		- betterquesting (/textures/gui/ new_gui & quest_frames)
+		- bibliocraft (/textures/fstwoods/)
+		- bigreactors (/textures/blocks/common/, /textures/blocks/guiIcons/, /textures/blocks/redNet/)
+			- Added Fluids: Column.flowing, Coulmn.still, steam.flowing, steam.still, cyanite, yellorium, 
+			- Added Blocks: MBCreativePart, reactorPart.accessPort(s), "casing, "computerPort, "controller(s), "controlRod, "coolantPort(s)
+					"powerTap, "redNetPort, "redstonePort(s), TurbinePart.bearing, "computerPort, "controller(s),
+					"fluidPort(s), "housing(s), "powerTap, tile.brMetal.blockBlutonium, "Cyanite, "Graphite, "Ludicrite, "Yellorium
+					Glasses.
+		- binniecore (/textures/gui/, /textures/items/)
+		- bluepower
+		- botany (/textures/blocks (stained override with higher quality one, added missing textures), /textures/items)
+		- bq_standard (/textures/gui/ gui_tehemes.png)
+		- buildcraftbuilders
+			- /textures/blocks/architectBlock/	front_off, front_on, led_green
+			- /textures/blocks/builderBlock/	blueprint, slot_blueprint, slot_epmty, slot_template, template
+			- /textures/blocks/filler/
+			- /textures/blocks/frame/
+			- /textures/blocks/library/
+			- /textures/blocks/marker/
+			- /textures/blocks/quarry/
+			- /textures/blocks/replacer/
+			- /textures/filler/
+			- /textures/filling/
+			- /textures/gui/			architect, electronic_library, filler_planner, quarry, replacer
+			- /textures/gui/blueprint/
+			- /textures/items/schematic_single/
+			- /textures/				robot.png
+v4.0.0a3
+	- Sphaxification (c, d)
+		- cereerbees
+		- carpentersblocks
+			- /textures/blocks/designs/bed/		carpenter_quilt_multicolor	Replaced
+			- /textures/items/			tile
+		- cfm
+		- comforts
+		- compactsolars (/textures/armor/, /textures/blocks/, /textures/gui/, /textures/items/)
+		- compactstorage (/textures/blocks/ barrel, /textures/backpack)
+		- coockingforblockheads	(Quality Upgrade to x128)
+		- coralreef
+		- customquests
+		- cyberware
+		- deconstruction
+		- deimos
+		- dendrology
+		- densemetals
+		- dimdoors
+		- doge
+		- doggytalents
+		- dynamictrees
+		- dynamictreesbop
+v4.0.0a4
+	- Sphaxification (e-l & none)
+		- enderio
+			- /textures/gui/40/	Inventory 1x2 - Inventory 9x6	REPLACED
+		- enderioaddons
+		- enderiointegrationforestry
+		- enderiomachines
+		- endertech
+		- enderzoo
+			- /entity-icons/
+			- /textures/blocks/	StructureMarker
+			- /textures/items/	ConfusingCharge, StructureTool, OwlEgg Enderfragment (REPLACED)
+		- endmetals
+		- energyconverters
+		- entangled
+		- eplus
+			- /textures/gui/	enchant_classic, enchant_element
+		- equivadditions
+		- erebus	(Quality Upgrade to x128)
+		- excompressum
+		- exnihilocreatio	Crooks
+		- extrabiomesxl		/items/
+		- extracells		FluidTerminal
+		- extraplanets		NoOverrides
+		- extratic
+			- /textures/blocks/	Addition
+			- /textures/items/	NoOverrides
+		- extratrees
+			- /textures/entity/
+			- /textures/gui/
+			- /textures/blocks/
+				- /fruit/
+				- /glass/
+				- /hops/
+				- /liquids/
+				- /logs/
+				- /pods/
+			- /textures/items/
+				- arborist_database, carpentry_hammer, durable_hammer, hops, lepi_database, master_arborist_database,
+				  master_lepi_database#
+				- /butterflies/
+				- /food/
+				- /icon/
+				- /misc/
+		- fortuneores
+		- fronos
+		- ftbachievements
+		- ftbquests	/textures/gui/	task.png
+		- ftfloocraft
+		- funkylocomotion	/textures/blocks/
+		- galacticraftcore
+			- /blockstates/
+			- /models/
+		- galacticraftplanets
+			- /models/
+		- gardenstuff
+		- genetics
+		- gravestone
+			- /textures/blocks/
+			- /textures/entities/
+			- /textures/graves/
+			- /textures/gui/
+			- /textures/memorials/
+			- /textures/potions/
+		- gravisuit
+		- grc-apples/-bamboo/-bees/-cellar/-core/-fishtrap/-grapes/-hops/-rice
+		- hqm	
+			- /textures/gui/	front
+			- /textures/items/	Quality Upgrade to x128 & Override
+		- ic2	NoOverrides
+		- immersiveengineering
+			/blockstates/
+			/models/
+		- immersivepetroleum
+			- /textures/gui/
+			- /textures/models/
+		- immibis_peripherals
+		- industrialforegoing	OVERRIDE
+		- interstellarores
+		- iridummod
+		- ironbackpacks
+		- ironchests		PartlyOverride
+		- ironshulkerbox
+		- irontanks
+		- koentus
+		- legacyfarms
+		- legendgear
+		- levelup2
+		- magicalcrops	/textures/gui/ & Partly Overrides/Additions/Edits
+		- malisiscore
+		- mercury
+		- metallurgycm
+		- millernaire
+		- minechem
+		- minions
+		- modularforcefieldsystem
+		- moglowstone
+		- morematerials
+		- morevanillatools
+		- mutantbeasts
+		- naturalcompass
+		- nethermetals
+		- nr
+		- nuclearcontrol
+		- openmodslib
+		- oreflowers
+		- paxel
+		- phobos
+		- planetprogression
+		- pluto
+		- powerconverters
+		- powersuits
+		- prospectors
+		- realistictorches
+		- recycling
+		- redrock
+		- redstonepastemod
+		- resonantinduction
+		- sgcraft
+		- siriusb
+		- sophisticatedwolves
+		- storagenetwork
+		- tadismod
+		- techreborn
+		- thermalsmeltery
+		- tinker
+		- vanillaexcavators
+		- vanillahammers
+		- venus
+		- warpbook
+		- wtf
+		- wit
+		- woodstuff
+		- wopper
+		- wpt
+		- wrcbe_addons
+		- wrcbe_core
+		- wrcbe_logic
+		- xaerobetterpvp
+v4.0.0a5
+	- Removed IronChests/ShulkerChests Models To Get The Standard Textures
+	- Shpaxification ()
+		- magicbees	Edit/Additions/QUx128
+		- milasisdoors	Edit/Additions/QUx128
+		- meknism	Quality Upgrade to x128
+		- morph		Addition
+		- mystcraft	PartlyOverride
+		- Natura	PartlyOverride
+	- ConArm Rendering Is Kinda Broken. Gotta Test If a4 Broke It and If The Implementation of OG Textures will fix it.
+v4.0.0a6
+	- Sphaxification
+		- netherores	OVERRIDE
+		- nex renamed to netherex and combined with higher quality x128. also started renaming to correct namings WIP
+		- openblocks	Addition
+		- patbat	Edit & Addition
+		- plustic	QUx128 & Addition
+		- practilaities	VoidBucket
+		- projectex	Addition
+		- projectred	RedLogic Component 3D Swap Replacement
+		- quantumflux	addition
+		- quark		QUx128 & Addition
+		- railcraft	Addition
+		- randomthings	Addition
+		- rebornore	Addition
+		- redstonic
+		- refinedstorage Addition
+		- rustic	Addition & Replacement
+		- simpleores	OVERRIDE
+		- spiceoflife	Book Replacement
+		- stevescarts	Addition
+		- tcomplement	Addition
+		- thaumcraft	Addition
+		- thaumicenergistics	Addition
+			- infusion_provider OVERRIDE
+		- thermalexpansion	QUx128	& Addition
+		- thermalfoundation	QUx128 OVERRIDE
+		- toughasnails	OVERRIDE
+		- translocator	Addition
+		- traverse
+		- tsteelworks	Addition
+		- ttinkerer	Addition
+		- twilightforest	QUx128	OVERRIDE
+		- undergroudbiomes	Addition
+		- wct	BoosterSlot QUx128 Replacement Update
+		- witchery	Additional
+		- woot
+		- forestry	Edit
+		- tconstruct	Addition & Edit
+		- xnet		Addition
+		- xreliquiary	Addition
+		- yabba		Addition
+
+==============Sphaxification Successfully Finished===================================
+
+v4.0.0
+	- Fixed Armor/Equippment Rendering Issue by Adding In Conarm OG Textures
+v5.0
+	- Removed all "dead" textures
+v5.1
+	- Fixed Unintendentally Removed Folders
+	- Added Book Textures for:
+		- AdvancementBook
+		- ConArm
+		- LordCraft
+		- Patchouli
+		- ValkyrieLib
+		- MagnetiCraft
+		- Hammer (Lib) Core
+		- IntegratedDynamics
+	- Unification (Correction) for ThemalFoundation Ingots
+	- Unification for ThermalSolars Ingots
+	- Updated ExtraPlanets Diamond Textures to DivineRPG (Flat)
+	- NetherEx:
+		- GloomyNetherrack Fix
+	- /assets/minecraft/ Override to clear Issues
+v5.2
+	- Updated TiC Ore Textures (Ardite/Cobalt)
+	- Fixed (hopefully) NetherEx Textures
+	- SolarFlux:	Swapped Base/Top Textures with each other to Correct Appearance
+v5.3
+	- Raplcaced Portal Textures with PO3 OG
+	- Movel /assets/chisel/ to PSOZ - Chisel
+	- Added OreBlock Textures for ThermalSolars Lunar & Ender
+	- ReFixed NetherEx Textures
+	- AdvancedRocketry Textures PreFix
+v5.4
+	- Unified Chocolate Texures for NucelarCraft to accomplish UniDict Changes
+	- Removed Guis from Metallurgy due to Incompatibility with the Reforged Version
+
+============== Renamed from FDHC PSOZ to PSOZ - MAIN ========================================
+============== Split Up Into Sub Packs ======================================================
+
+v5.5
+	- Fixed Netherex Soul Glass
+	- Fixed Inconsistent GUI Texture for EnderIO Capacity Banks
+v5.6
+	- Updated Minecraft Item Textures to match the DevsAdditions ones as they are preferred
+v5.7
+	- Fixed Metallurgy Armor Models dircetory paths
+v6.0	Base	(Fallback Version)
+	- Removed All Block Textures and Replaced them With Sphaxification Combined x16-x512 v2.0.0 for better performance
+	- Added Flows HD and Triton Textures from x64-x512 upwards
+	- Added Sphaxification v2.0.0 Combined and JEI
+	- Clean Version (for if i run into any major issues)
+v6.0	Full
+	- Added Any Missing Stuff without Override from v5.7
+v6.1
+	- Replaced natura/textures/blocks/planks & .../logs back to v5.7
+	- Replaced mysticalagriculture/textures/blocks back to v5.7
+//	- Removed Dragon Egg mcdata to keep OG MC Model
+	- Fixed Missing Texture Issues
+	- Replaced Heat Sand Texture back to v5.7
+	- Added MysticalCreations Unification Textures from JAOPCA
+	- Removed Command_Center from minecraft/mcpatcher to get rid of unused inventory overlay
+	- Added armorplus Textures for Armor Models & Items
+v6.1.1
+	- Unification Update for Metallurgy Electrum Ingot to match Thermal Series Texture
+	- Used a copy of Desichalkos Block & Bricks Texture to have at least a placeholder in matching color for Lutetium
+v6.1.2
+//?	- Removed blue square on 1st slot in hotbar as its no more working in 1.12 as intended
+v6.2.1
+	- GUI Update Ignored for Universal
+v6.2.2
+	- Updated Dust Texture Unification for ExNihilo & JAOPCA
+v6.3.0
+	ReImp/Revoked appliedenergistics2 Textures to High Res OVERRIDE from v4.0.0 and moved GUIs to GUIs TP/RP
+v6.3.1
+	ReImp/Revoked mekanism Fluid Tank Textures
+	Fixed GalactiCraft Core Circuit Fabricator Texture Model Json
+v6.3.2
+	Added ClassicBars Textures
+v6.3.3
+	Added Alchemistry Fertilizer Texture (Copy of IndustrialForegoing Fertilizer) for Unification
+v6.3.4
+	JAOPCA: Polishing Update
+		- Replaced Plate texture with a white one and added an blank overlay (now unused texture is renamed/disabled)
+		- Replaced Dense Plate texture with a white one and added an blank overlay (now unused texture is renamed/disabled)
+		- Dense Plate Texture is a different than Normal Plate Texture to distinguish them from each other
+		- Replaced Clump Texture with a matching Mekanism Clump Texture
+v6.3.5
+	Metallurgy4Reforged:
+		- Updated Krik Block Textures with a duplicate of Celenegil as Placeholder
+		- Updated Etherium Block Textures with a duplicate of Infuscolium as Placeholder
+	Universal Specific: Fixed Self-Resetting Levers Missing Textures InGame
+v6.3.6
+	MoreFurnaces:
+		- Added/Updated all Furnace Textures to match FurnaceOverhaul (&BetterFurnaces) Textures
+	MineCraft:
+		- Added Universal Sky/World Patches	
+	Universal Specific: Replaced PO3 Sun Texture with a casual one
+v6.3.7
+	Moved Out fonts and made optional variants as they seem to be incompatible with some mods (i.e.: GregTech)
+	Fixed Autoclave Texture (State Dependant Texture is now on the front as it should be)
+v6.4.0
+	- Updated Sphax 64x Omnifactory NO Overrides!
+v6.4.1
+	- Fixed Self-Resetting Lever yet again x_X
+v6.4.2
+	- Moved /minecraft/textures/tritonmodel/ to "PSOZ - 3D Models" as they would be missing if used standalone
+	- removed/replaced Grass Side Texture for consistency
+
+v7.0.0
+	- from now on the [MC#version] is added behind the Pack name to clearly distinguish 1.12.2 from 1.16.5
+	- All Additional Packs are now integrated into Universal to make it truly universal and optional Variants are now named PSOZ:MO - (varianttype) [MC#version]
+	- MO = Modular Overrides
+	- The 1.16.5 Update is a complete ReCreation from scratch due to the naming and file-tree changes
+
+v7.0.1
+	- replaced Triton Glowstone Texture with UltraRealistics one
+	- added ExtraCells textures for AEAdditions as it is the Replacement mod
+
+v7.0.2
+	- Removed Forestry Bees MCDAT files once agin to fix the missing texture bug
+
+v7.0.3
+	- Added all other yet missing contenttweaker resources directly into the TexturePack
+	Other Resources now directly integrated: 
+		- AgriCraft Resources for Erebus Mandrake Root Plant
+		- ExtendedCrafting lang file for en_en
+	- Updated AppliedEnergistics2 Resourcces
+	- Removed Glass.mcdata files to fix uncolored Glass edges
+
+v7.1.0
+	- Updated Additional Resources: 
+		- PSOZ - 3D Models [v1.1] (PSOZ MO - 3D Models [v1.1][MC1.12.2])
+v7.1.1
+	Metallurgy:
+		- Added Road Textures from UI for Metallurgy Roads
+	ClassicBars:
+		- Updated default textures
+	XLFoods:
+		- Integrated RusticFoods Textures
+	Minecraft
+		- Added optifine -> emmesive.properties
+	Integrated Nomi CEu Dark Mode Guis (No Overrides)
+	Integrated Engineers GUIs (No Overrides)
+	GregTech:
+		- Updated Lang File for en_us
+	Integrated GregTechFoodOptions lang file
+	Integrated GalactiCraft-CTM
+	Integrated IU-Dark Theme (IndustrialUpgrade, QuantumGenerators, SimplyQuarries)
+	Integrated Divine Journey 2 RP (No Overrides)
+	SGCraft:
+		- Updated Upgrade Crystal Texture
+	Integrated Mahou Tsukai ReTextured
+	Replaced SolarFlux with Arjuna's High Res Textures
+	Integrated Arjuna's High Res Texures for Alchemistry (No Overrides)
+	Added ImmersiveEngineering Better Breaker Switch Sound
+	Integrated ElectricTrove Legendary Tooltip Borders
+V7.1.2
+	Upated LevelUp Sound to match with BQ Quest Sound
+	Added Missing Localization Fixes for GregTechFoodOptions
+	Updated Fertilizer Texture (Except AA: Alchemistry, GregTech & Industrial Foregoing)
+	Gregtech Update (No Overrides except listed) :
+		- blocks
+			-> casings
+				-> pipe
+					-> machine_casing_grate
+				-> solid
+					- machine_coke_bricks
+					- machine_coke_oven_bricks
+					- machine_primitive_bricks
+				-> voltage
+					- max
+					- ulv
+					- zpm (recolored custom texture)
+			-> generators
+				-> boiler
+					- solar
+				-> solar
+					- solarpanel_ulv
+v7.1.3
+	Updated Textures:
+		Chisels:
+			Concrete
+				- block.pmg +POM (VanillaFusion2k)
+			Quartz
+				- french_2
+			Stone
+				- Circular (Recplaced with nedgirl Arts UltraRelism)
+		Minecraft:
+			- ender_eye (Recplaced with EnderPearl from BackYardCraft x512)
+			- clay_ball (Recplaced with BackYardCraft x512) Now better matches the clay block's color#
+			EnchantmentGlint (misc)(Recplaced with BackYardCraft x512)
+			stonebricks_carved (Recplaced with PhotoRealism)
+			!NOT in x2048! gravel (Recplaced with PhotRealism) !INCOMPATIBILITY! with Overloaded Compressed Block Texture Generator
+				- scaled it down to x512
+			- grass_top (Recplaced with PhotoRealism)
+	Integrated MFDOOM Music (personal nightly build only)
+	Udated lang file for minecraft and hotfixed rail textures until they work again
+
+v7.1.4
+	Added some ModPack resources from Nomifactory
